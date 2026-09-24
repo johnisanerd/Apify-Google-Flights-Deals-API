@@ -253,4 +253,15 @@ Ready-to-run examples on the Apify Store, each targeting one local-data use case
 - [Generate local leads in Claude via Google Maps MCP](https://apify.com/johnvc/google-flights-deals-api/examples/generate-local-leads-in-claude-via-google-maps-mcp?fpr=9n7kx3)
 - [Export Google Maps Places to CSV](https://apify.com/johnvc/google-flights-deals-api/examples/export-google-maps-places-to-csv?fpr=9n7kx3)
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Google Flights Deals API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=How%20do%20I%20use%20the%20Google%20Flights%20Deals%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/google-flights-deals-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🧠 [Claude](https://claude.ai/new?q=How%20do%20I%20use%20the%20Google%20Flights%20Deals%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/google-flights-deals-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=How%20do%20I%20use%20the%20Google%20Flights%20Deals%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/google-flights-deals-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=How%20do%20I%20use%20the%20Google%20Flights%20Deals%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/google-flights-deals-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+<!-- ask-ai:end -->
+
 Last Updated: 2026.09.22
